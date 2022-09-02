@@ -1,0 +1,1 @@
+print("Even" if int(input("Enter a Number : ")) % 2 == 0 else "Odd")

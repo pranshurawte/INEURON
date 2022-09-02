@@ -1,0 +1,5 @@
+a = oct(25)
+b = hex(39)
+print(type(a))
+c = bin(a) + bin(b)
+print(c)
