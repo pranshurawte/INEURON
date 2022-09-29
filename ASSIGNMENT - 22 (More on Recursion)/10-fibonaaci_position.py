@@ -1,3 +1,4 @@
+# Write a recursive python function to find the Nth term of the Fibonacci series.
 def fib(n) :
     if n == 0 or n == 1 : 
         return n
