@@ -1,0 +1,1 @@
+UPDATE student set name = 'Mohan' WHERE name ='Nitesh';

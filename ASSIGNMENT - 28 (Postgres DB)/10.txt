@@ -1,0 +1,1 @@
+ select name from Student WHERE c_id =( select c_id FROM Courses where c_name = 'DSA');

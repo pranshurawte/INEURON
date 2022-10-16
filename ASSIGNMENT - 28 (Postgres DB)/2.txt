@@ -1,0 +1,3 @@
+insert into student values(39,'Pranshu','Machine Learning');
+insert into student values(8,'Ankit Kumar Patel','Flutter');
+insert into student values(8,'Ankit Kumar Patel','Flutter');

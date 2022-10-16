@@ -1,0 +1,12 @@
+create course student(
+	c_id int PRIMARY KEY,
+	nc_name text
+);
+
+CREATE TABLE Student (
+	roll_no int PRIMARY REY,
+	name text,c_id int,
+	CONSTRAINT fk_key
+ 		FOREIGN KEY(c_id)
+ 			REFERENCES Courses(c_id)
+);

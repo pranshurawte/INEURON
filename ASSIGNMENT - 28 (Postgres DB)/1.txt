@@ -1,0 +1,1 @@
+ create table student(roll_no int , name text,course text ,primary key(roll_no));

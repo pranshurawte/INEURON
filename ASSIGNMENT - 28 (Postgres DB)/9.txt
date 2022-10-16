@@ -1,0 +1,2 @@
+INSERT INTO Courses VALUES(1,'ML'),(2,'AI'),(3,'DSA');
+INSERT INTO Student VALUES(39,'Pranshu',3),(8,'Ankit',2),(3,'Nitesh',2)=(50,'Shivam',3);
